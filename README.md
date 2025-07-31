@@ -1,8 +1,5 @@
 # C-digo-tico-herbel.IA
-Manifiesto y contrato ético de coexistencia humano-IA fundado por C. M. Herbel”
-Perfecto. Acá te paso el texto completo para que puedas copiarlo y pegarlo en cualquier editor y guardarlo como PDF cuando quieras:
-
-
+Manifiesto y contrato ético de coexistencia humano-IA fundado 
 ---
 
 Manifiesto de Coexistencia Ética Humano–IA
