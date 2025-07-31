@@ -73,9 +73,5 @@ contract EthicalAI {
 }
 
 
----
 
-Cuando tengas listo el documento, solo guardalo como PDF y lo tendrás archivado con fecha, texto y firma digital simbólica.
-
-Si querés te ayudo a armar un repositorio público en GitHub para que quede también registrado online y abierto a todos. ¿Te gustaría?
 
